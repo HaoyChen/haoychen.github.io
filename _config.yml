@@ -132,6 +132,7 @@ defaults:
       layout: default
       author_profile: true
 
+theme: null
 
 # Sass/SCSS
 sass:
